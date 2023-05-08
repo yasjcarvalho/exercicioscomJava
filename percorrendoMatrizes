@@ -1,0 +1,21 @@
+public class MyClass {
+    public static void main(String args[]) {
+        String[][] matriz = {{"00", "01"}, {"10", "11"}, {"20", "21"}};
+        
+        for (int i = 0; i < matriz.length; i++)
+            for (int j=0; j < matriz[i].length; j++)
+                System.out.println("Elemento linha " + i + " coluna " + j + ": " + matriz[i][j]);
+                
+        
+        
+    }
+}
+
+SAÍDA: 
+
+Elemento linha 0 coluna 0: 00
+Elemento linha 0 coluna 1: 01
+Elemento linha 1 coluna 0: 10
+Elemento linha 1 coluna 1: 11
+Elemento linha 2 coluna 0: 20
+Elemento linha 2 coluna 1: 21
