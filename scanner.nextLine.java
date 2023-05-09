@@ -25,4 +25,4 @@ public class ProgramaNomes {
 }
 
 //Usando vetores, escreva um programa em Java que leia do usuário o nome de 10 pessoas e, 
-//após todas as leituras, exiba na tela o nome dos 10 usuários lindos.
+//após todas as leituras, exiba na tela o nome dos 10 usuários lidos.
