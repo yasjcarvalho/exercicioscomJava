@@ -24,3 +24,11 @@ String str3 = "\u004f\u006C\u0061";
      System.out.println("Str1 equalsIgnoreCase Str2");
   
   System.out.println("Uncisal".equals(str1) ? "Uncisal equals str1" : "Uncisal not equals str1");
+
+// A classe String inclui alguns métodos
+// Ex.: 
+// * Examinar caracteres individuais 
+// * Comparação de Strings
+// * Busca de Strings
+// * Extrair substrings
+// * Criar copias com caracteres minúsculos/maiúsculos
