@@ -15,9 +15,9 @@ Todos os meus exercícios com a linguagem JAVA.
 Usei o NetBeans. 
 
 
-### No arquivo PrincipalBanco1.java:
+## No arquivo PrincipalBanco1.java:
 
-## A partir do contexto de um banco crie uma aplicação em java:
+### A partir do contexto de um banco crie uma aplicação em java:
 
 1 crie uma classe chamada ContaBancaria que terá 3 atributos:
 número da conta, número da agência e saldo
